@@ -1,0 +1,20 @@
+.main-div{
+    width: 68%;
+    margin-left: 32%;
+    margin-top: 2%;
+}
+
+.form-div{
+    width: 50%;  
+    border: 2px solid black;
+    padding: 2%;
+    border-radius: 10%;
+}
+
+.btnClass {
+    margin-top: 2%;
+}
+
+.errorClass{
+    color: red;
+}

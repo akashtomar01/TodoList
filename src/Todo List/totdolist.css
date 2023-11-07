@@ -1,0 +1,29 @@
+.main-div{
+    width: 100%;
+}
+/* .customInput{
+    border: none;
+}
+.customInput :hover{
+    border: none;
+    user-select: none;
+} */
+.head{
+    border: 2px solid black;
+    width: 70%;
+    text-align: center;
+    margin-left: 220px;
+    margin-top: 10px;
+    border-radius: 15px;
+    border-color: rgb(163, 176, 172);
+    background-color: rgb(163, 176, 172);
+}
+.input-div{
+    text-align: center;
+    margin-left: 600px;
+}
+.table-div{
+    width: 50%;
+    margin-left: 360px;
+    margin-top: 10px;
+}
